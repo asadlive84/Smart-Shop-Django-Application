@@ -7,5 +7,5 @@ class CustomUserManager(UserManager):
 
 
 class CustomUser(AbstractUser):
-    phone_number = models.PositiveIntegerField("Phone Number", unique=True)
+    phone_number = models.PositiveIntegerField("Phone Number", unique=True, blank=True, null=True)
     objects = CustomUserManager()
