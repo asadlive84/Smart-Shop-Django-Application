@@ -1,20 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be631019-dd1a-4df8-ad45-fd1bae50c82f" name="Default Changelist" comment="" />
+    <list default="true" id="be631019-dd1a-4df8-ad45-fd1bae50c82f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SmartShop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/SmartShop/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1V91hXklLs1dlh0fZvhiO8Mtl3f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager">
@@ -64,11 +83,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576650616492</updated>
-      <workItem from="1576650632009" duration="164000" />
+      <workItem from="1576650632009" duration="1290000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
