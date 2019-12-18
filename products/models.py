@@ -31,13 +31,18 @@ class Vendor(models.Model):
     This Table about Vendor Information
     """
     created_by = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
-    name = models.CharField("Name", max_length=100)
+    name = models.CharField("Name", max_length=100, db_index=True)
     short_info = models.TextField(blank=True, null=True)
     address = models.TextField("Address", blank=True, null=True)
     contact = models.CharField("Contact", max_length=200)
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
 
     def __str__(self):
         return f"{self.name}"
+
+    class Meta:
+        ordering = ['-created_at']
 
 
 class ProductUnit(models.Model):

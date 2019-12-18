@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'users.apps.UsersConfig', # user app
     'shop.apps.ShopConfig', # shop app
     'products.apps.ProductsConfig', # Products app
+    'rest_framework', # rest framework
 ]
 
 MIDDLEWARE = [
