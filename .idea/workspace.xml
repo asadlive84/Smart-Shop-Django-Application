@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be631019-dd1a-4df8-ad45-fd1bae50c82f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/products/migrations/0004_auto_20191218_0858.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SmartShop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/SmartShop/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SmartShop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/SmartShop/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/products/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/products/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +89,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576650616492</updated>
-      <workItem from="1576650632009" duration="15204000" />
+      <workItem from="1576650632009" duration="16434000" />
+      <workItem from="1576923232959" duration="3108000" />
     </task>
     <servers />
   </component>
@@ -107,21 +104,25 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1275" height="175" key="GridCell.Tab.0.bottom" timestamp="1576666089349">
+    <state width="1275" height="175" key="GridCell.Tab.0.bottom" timestamp="1576926359561">
       <screen x="45" y="27" width="1321" height="741" />
     </state>
-    <state width="1275" height="175" key="GridCell.Tab.0.bottom/45.27.1321.741@45.27.1321.741" timestamp="1576666089349" />
-    <state width="1275" height="175" key="GridCell.Tab.0.center" timestamp="1576666089349">
+    <state width="1275" height="175" key="GridCell.Tab.0.bottom/45.27.1321.741@45.27.1321.741" timestamp="1576926359561" />
+    <state width="1275" height="175" key="GridCell.Tab.0.center" timestamp="1576926359560">
       <screen x="45" y="27" width="1321" height="741" />
     </state>
-    <state width="1275" height="175" key="GridCell.Tab.0.center/45.27.1321.741@45.27.1321.741" timestamp="1576666089349" />
-    <state width="1275" height="175" key="GridCell.Tab.0.left" timestamp="1576666089348">
+    <state width="1275" height="175" key="GridCell.Tab.0.center/45.27.1321.741@45.27.1321.741" timestamp="1576926359560" />
+    <state width="1275" height="175" key="GridCell.Tab.0.left" timestamp="1576926359560">
       <screen x="45" y="27" width="1321" height="741" />
     </state>
-    <state width="1275" height="175" key="GridCell.Tab.0.left/45.27.1321.741@45.27.1321.741" timestamp="1576666089348" />
-    <state width="1275" height="175" key="GridCell.Tab.0.right" timestamp="1576666089349">
+    <state width="1275" height="175" key="GridCell.Tab.0.left/45.27.1321.741@45.27.1321.741" timestamp="1576926359560" />
+    <state width="1275" height="175" key="GridCell.Tab.0.right" timestamp="1576926359560">
       <screen x="45" y="27" width="1321" height="741" />
     </state>
-    <state width="1275" height="175" key="GridCell.Tab.0.right/45.27.1321.741@45.27.1321.741" timestamp="1576666089349" />
+    <state width="1275" height="175" key="GridCell.Tab.0.right/45.27.1321.741@45.27.1321.741" timestamp="1576926359560" />
+    <state x="361" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1576930942927">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state x="361" y="224" key="com.intellij.ide.util.TipDialog/45.27.1321.741@45.27.1321.741" timestamp="1576930942927" />
   </component>
 </project>

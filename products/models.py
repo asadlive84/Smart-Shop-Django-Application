@@ -50,7 +50,7 @@ class ProductUnit(models.Model):
     Product Unit: product unit, vendor, price
     """
     created_by = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
-    product = models.ForeignKey("Product", on_delete=models.CASCADE)
+    product = models.ForeignKey("Product", related_name="product", on_delete=models.CASCADE)
     short_name = models.CharField("Short Name", max_length=100, blank=True, null=True)
     short_info = models.CharField("Short Information", max_length=100, blank=True, null=True)
     long_info = models.TextField("Long Information", blank=True, null=True)
